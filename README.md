@@ -61,7 +61,7 @@
 	
   
 ----------  
-  [依赖服务]:
+  [required]:
   
   - spring	    : https://spring.io/
   - velocity	: http://velocity.apache.org/
