@@ -1,0 +1,10 @@
+<h1>发送邮件测试</h1>
+<h2>用户信息</h2>	
+
+用户uid : $userId <br/>
+用户姓名 :  $name <br/>
+订单列表 :  #foreach($item in $orderList)  $item #end  <br/>
+
+<br/><br/><br/>
+-------------------------------------------
+<br/>       
